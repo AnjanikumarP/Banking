@@ -1,0 +1,20 @@
+{
+"accounts":
+[
+
+ {"pk1":"21344565",
+ "acno":"423235657",
+ "acname":"Aditya Kurhade",
+ "actype":"Saving",
+ "opening_date":"1533881224721",
+ "balance":"453577"},
+ 
+ {"pk1":"21344575",
+ "acno":"423233247",
+ "acname":"fdwvfrs frdsbgd",
+ "actype":"Current",
+ "opening_date":"1533881224756",
+ "balance":"453557"}
+ 
+]
+}
